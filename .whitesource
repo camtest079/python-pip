@@ -1,0 +1,6 @@
+{
+  "settingsInheritedFrom": "camtest079/whitesource-config@main",
+  "scanSettings": {
+    "configMode": "LOCAL"
+  }
+}
